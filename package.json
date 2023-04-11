@@ -1,0 +1,15 @@
+{
+  "name": "linkedin-auto-liker",
+  "version": "1.0.0",
+  "description": "Auto like post on linkedin",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Palash",
+  "license": "",
+  "dependencies": {
+    "puppeteer": "^11.0.0"
+  }
+}
